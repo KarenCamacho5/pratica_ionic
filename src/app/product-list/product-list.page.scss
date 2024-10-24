@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Arima:wght@100..700&display=swap');
+
+.boton-menu{
+    --color: #6200ff;
+}
+
+ion-toolbar{
+    font-family: "Arima", system-ui;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.nombre-prenda{
+    font-family: "Arima", system-ui;
+    font-weight: 500;
+}
+.precio{
+    font-weight: 600;
+    font-size: 20px;
+    color: #000000;
+    margin-top: 10px;
+}
+.boton-vermas{
+    --background: #a169f8;
+    --color: white;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: none;
+    height: 30px;
+    width: 90px;
+}
